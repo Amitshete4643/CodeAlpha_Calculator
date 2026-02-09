@@ -42,13 +42,13 @@ To run this project locally:
 
 📬 Contact
 
-- Author: Kalpesh Nimba Dahite
+- Author: Amit Uttam Shete
 
-- Email: kalpeshdahite009@gmail.com
+- Email: sheteamit500@gmail.com
 
-- LinkedIn: Kalpesh Nimba Dahite
+- LinkedIn: Amit Shete
 
-- GitHub: kalpesh269
+- GitHub: Amitshete4643
 
 📝 License
 - This project is open source
