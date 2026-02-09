@@ -13,7 +13,7 @@ A clean and responsive Functional Calculator built using HTML, CSS, and JavaScri
 
 ---
 ## 🚀 Live Demo
-[Click here to view the demo](https://Amitshete4643.github.io/CodeAlpha_Calculator/)  
+[Click here to view the demo](https://amitshete4643.github.io/CodeAlpha_Calculator/)  
 
 ---
 
@@ -38,7 +38,7 @@ To run this project locally:
 
 📸 Preview
 
-[Calculator Screenshot](https://github.com/Amitshete4643/CodeAlpha_Calculator/blob/main/assets/preview.png)
+[Calculator Screenshot](https://github.com/amitshete4643/CodeAlpha_Calculator/blob/main/assets/preview.png)
 
 📬 Contact
 
