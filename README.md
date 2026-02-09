@@ -29,7 +29,7 @@ To run this project locally:
 
 1. **Clone the repository**
    ```bash
-    git clone https://github.com/kalpesh269/CodeAlpha_Calculator.git
+    git clone https://github.com/Amitshete4643/CodeAlpha_Calculator.git
 2. **Navigate into the folder**
     ```bash
     cd calculator
